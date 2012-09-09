@@ -31,7 +31,8 @@ R.simple
     <style type="text/css">
             
             body { 
-                margin: 0;
+                background: {color:Background} url('{image:Background}') top left fixed repeat;
+               margin: 0;
                 padding: 0;
                 font-family: {font:Body};
                 }
