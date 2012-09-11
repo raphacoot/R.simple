@@ -25,6 +25,8 @@ R.simple
     <meta name="text:Custom Link Two" content="" />
     <meta name="text:Custom Link Two Title" content="" />
     <meta name="text:Disqus Shortname" content"" />
+    <meta name="text:Custom Link Three" content="" />
+    <meta name="text:Custom Link Three Title" content="" />
     
     
     
@@ -63,7 +65,7 @@ R.simple
                  margin: 10px 0;
                  width: 520px;
                  float; left;
-                 border-radius: 4px;
+                 border-radius: 0px;
                  background: #fff;
                  text-align: center;
                  padding-bottom: 20px;
@@ -94,7 +96,7 @@ R.simple
                 margin: 20px 0px;
                 width: 520px;
                 float: left;
-                border-radius: 4px;
+                border-radius: 0px;
                
                 
                 
@@ -107,7 +109,7 @@ R.simple
                 font-family: {font:Body};               
                 background: #fff;
                 position: relative;
-                border-radius: 4px;
+                border-radius: 0px;
                 margin-bottom: 30px;
                 
                 
@@ -120,6 +122,15 @@ R.simple
                padding: 3px 10px 3px 10px;
                font-size: 13px;
                line-height: 15px;
+               
+               
+           } 
+           
+           #wrapper #content .post .copy3 {
+               color: #fff;
+               font-size: 13px;
+               line-height: 15px;
+               
                
                
            } 
@@ -167,7 +178,7 @@ R.simple
                padding: 10px;
                position: relative;
                float: right;
-               right: 15px;
+               right: 5px;
                top: 5px;
               
            }  
@@ -178,14 +189,45 @@ R.simple
                         padding: 7px;
                         margin-bottom: 10px;
                         margin-left: 25px;
-                        margin-top: 42px;
+                        margin-top: 24px;
                         -moz-border-radius: 4px;
                         -webkit-border-radius: 4px;
                         border-radius: 0px;
                         position: relative;
+                        width: 320px;
             }
             
+             #wrapper #content .post .audio2 {
+                        background: #989898;
+                        float:left;
+                        padding: 7px;
+                        margin-bottom: 0px;
+                        margin-left: 25px;
+                        margin-top: -5px;
+                        -moz-border-radius: 4px;
+                        -webkit-border-radius: 4px;
+                        border-radius: 0px;
+                        position: relative;
+                        height: 15px;
+                        width: 320px;
+                        text-align: center;
+            }
             
+            #wrapper #content .post .audio3 {
+                        background: #989898;
+                        float:left;
+                        padding: 7px;
+                        margin-bottom: 0px;
+                        margin-left: 25px;
+                        margin-top: 5px;
+                        -moz-border-radius: 4px;
+                        -webkit-border-radius: 4px;
+                        border-radius: 0px;
+                        position: relative;
+                        height: 15px;
+                        width: 320px;
+                        text-align: center;
+            }
             
             #wrapper #content .post .audio .player {
                             float: left;
@@ -516,12 +558,16 @@ margin-bottom:4px;}
            {block:ifCustomLinkOneTitle}<a href="{text:Custom Link One}" class="linksy" style="color:#000">{text:Custom Link One Title}{/block:ifCustomLinkOneTitle}</a>
           
           {block:ifCustomLinkTwoTitle}<a href="{text:Custom Link Two}" class="linksy" style="color:#000">{text:Custom Link Two Title}{/block:ifCustomLinkTwoTitle}</a>
+          
+          {block:ifCustomLinkThreeTitle}<a href="{text:Custom Link Three}" class="linksy" style="color:#000">{text:Custom Link Three Title}{/block:ifCustomLinkThreeTitle}</a>
              
-   <a href="http://raphacoot.tumblr.com" style="color:#000">Theme</a>
+   <a href="http://raphacoot.tumblr.com/theme" style="color:#000">Themes</a>
+   
            
            <u>{block:AskEnabled}<a href="/ask" class="links" style="color:#000">Ask</a>{/block:AskEnabled}</u>
            <u>{block:SubmissionsEnabled}<a href="/submit" class="links"style="color:#000">Submit</a>{/block:SubmissionsEnabled}</u>
            
+                     
            </div>    
             </div>
            
@@ -557,7 +603,7 @@ margin-bottom:4px;}
                         {block:IfShowAlbumArtOnAudioPosts}
                             {block:AlbumArt}
                                 <div class="album_art">
-                                    <img src="{AlbumArtURL}" alt="{block:Artist}{Artist}{/block:Artist}{block:TrackName} - {TrackName}{/block:TrackName}" style="margin-bottom:10px;" width="100" height="100"/>
+                                    <img src="{AlbumArtURL}" alt="{block:Artist}{Artist}{/block:Artist}{block:TrackName} - {TrackName}{/block:TrackName}" style="margin-bottom:10px;" width="130" height="130"/>
                                 </div>
                             {/block:AlbumArt}
                         {/block:IfShowAlbumArtOnAudioPosts}
@@ -566,7 +612,8 @@ margin-bottom:4px;}
                             <div class="player">{AudioPlayerWhite}</div>
                             <div class="meta">{PlayCountWithLabel}{block:ExternalAudio}<span class="download_external_audio"> &bull; <a href="{ExternalAudioURL}">{lang:Download}</a></span>{/block:ExternalAudio}</div>
                    </div>
-                            
+                     <div class="audio2"><div class="copy3">{block:TrackName}{TrackName}{/block:TrackName}</div></div>  
+                     <div class="audio3"><div class="copy3">{block:Artist}{Artist}{/block:Artist}</div></div>
                             
                         
                         <div class="clear"></div>
