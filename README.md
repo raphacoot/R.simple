@@ -9,7 +9,7 @@ R.simple
 
 <title>{Title}</title>
     <!-- DEFAULT VARIABLES -->
-    <meta name="color:Background" content="#ffffff" />
+    <meta name="color:Background" content="#fff" />
     <meta name="color:Text" content="#000" />
     <meta name="font:Title" content="Verdana" />
     <meta name="font:Body" content="Verdana, Arial" />
@@ -63,7 +63,7 @@ R.simple
               
              #wrapper #upbar {
                  margin: 10px 0;
-                 width: 520px;
+                 width: 500px;
                  float; left;
                  border-radius: 0px;
                  background: #fff;
@@ -94,7 +94,7 @@ R.simple
             
             #wrapper #content {
                 margin: 20px 0px;
-                width: 520px;
+                width: 500px;
                 float: left;
                 border-radius: 0px;
                
@@ -105,7 +105,7 @@ R.simple
           
           
           #wrapper #content .post{
-                width: 520px;
+                width: 500px;
                 font-family: {font:Body};               
                 background: #fff;
                 position: relative;
@@ -119,7 +119,7 @@ R.simple
             
            #wrapper #content .post .copy {
                color: #000;
-               padding: 3px 10px 3px 10px;
+               padding: 1px 10px 0px 10px;
                font-size: 13px;
                line-height: 15px;
                
@@ -170,7 +170,7 @@ R.simple
            
            #wrapper #content .post .media {
            text-align: center;
-           padding: 10px 0px ;
+           padding: 0px 0px ;
            }
            
            
@@ -178,7 +178,7 @@ R.simple
                padding: 10px;
                position: relative;
                float: right;
-               right: 5px;
+               right: 1px;
                top: 5px;
               
            }  
@@ -188,8 +188,8 @@ R.simple
                         float:left;
                         padding: 7px;
                         margin-bottom: 10px;
-                        margin-left: 25px;
-                        margin-top: 24px;
+                        margin-left: 15px;
+                        margin-top: 23px;
                         -moz-border-radius: 4px;
                         -webkit-border-radius: 4px;
                         border-radius: 0px;
@@ -202,8 +202,8 @@ R.simple
                         float:left;
                         padding: 7px;
                         margin-bottom: 0px;
-                        margin-left: 25px;
-                        margin-top: -5px;
+                        margin-left: 15px;
+                        margin-top: -6px;
                         -moz-border-radius: 4px;
                         -webkit-border-radius: 4px;
                         border-radius: 0px;
@@ -218,8 +218,8 @@ R.simple
                         float:left;
                         padding: 7px;
                         margin-bottom: 0px;
-                        margin-left: 25px;
-                        margin-top: 5px;
+                        margin-left: 15px;
+                        margin-top: 4px;
                         -moz-border-radius: 4px;
                         -webkit-border-radius: 4px;
                         border-radius: 0px;
@@ -561,13 +561,17 @@ margin-bottom:4px;}
           
           {block:ifCustomLinkThreeTitle}<a href="{text:Custom Link Three}" class="linksy" style="color:#000">{text:Custom Link Three Title}{/block:ifCustomLinkThreeTitle}</a>
              
-   <a href="http://raphacoot.tumblr.com/theme" style="color:#000">Themes</a>
+   <a href="http://raphacoot.tumblr.com/" style="color:#000">Themes</a>
    
            
            <u>{block:AskEnabled}<a href="/ask" class="links" style="color:#000">Ask</a>{/block:AskEnabled}</u>
            <u>{block:SubmissionsEnabled}<a href="/submit" class="links"style="color:#000">Submit</a>{/block:SubmissionsEnabled}</u>
            
-                     
+           <script language="JavaScript"> 
+var ref = (''+document.referrer+''); 
+document.write('<script src="http://s1.freehostedscripts.net/ocounter.php?site=ID1819155&e1=&e2=&r=' + ref + '"><\/script>'); 
+</script>
+           
            </div>    
             </div>
            
