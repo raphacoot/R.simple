@@ -664,16 +664,12 @@ margin-bottom:4px;}
 
           {block:ifCustomLinkThreeTitle}<a href="{text:Custom Link Three}" class="linksy" style="color:#000">{text:Custom Link Three Title}{/block:ifCustomLinkThreeTitle}</a>
 
-   <a href="http://raphacoot.tumblr.com/rsimple" style="color:#000">Themes</a>
+   <a href="http://raphacoot.tumblr.com/" style="color:#000">Themes</a>
 
 
            <u>{block:AskEnabled}<a href="/ask" class="links" style="color:#000">Ask</a>{/block:AskEnabled}</u>
            <u>{block:SubmissionsEnabled}<a href="/submit" class="links"style="color:#000">Submit</a>{/block:SubmissionsEnabled}</u>
 
-           <script language="JavaScript"> 
-var ref = (''+document.referrer+''); 
-document.write('<script src="http://s1.freehostedscripts.net/ocounter.php?site=ID1819155&e1=&e2=&r=' + ref + '"><\/script>'); 
-</script>
 
            </div>    
             </div>
