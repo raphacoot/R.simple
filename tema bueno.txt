@@ -1,0 +1,1021 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\
+<!-- theme made by Rafael L\'f3pez Fanjul URL:raphacoot.tumblr.com -->\
+\
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\
+<head>\
+\
+<title>\{Title\}</title>\
+    <!-- DEFAULT VARIABLES -->\
+    <meta name="color:Links" content="#fff" />\
+    <meta name="color:LinksHover" content="#fff" />\
+    <meta name="color:Background" content="#fff" />\
+    <meta name="color:Text" content="#000" />\
+    <meta name="font:Title" content="Verdana" />\
+    <meta name="font:Body" content="Verdana, Arial" />\
+    <meta name="font:Accent" content="Lucida Sans" />\
+    <meta name="if:Show Tags" content="1">\
+    <meta name="if:Show Album Art on Audio Posts" content="1" />\
+    <meta name="if:Enable Jump Pagination" content="0">\
+    <meta name="image:Header" content="" />\
+    <meta name="image:Background" content="" />\
+    <meta name="custom:Link" content"" />\
+    <meta name="text:Custom Link One" content="" />\
+    <meta name="text:Custom Link One Title" content="" />\
+    <meta name="text:Custom Link Two" content="" />\
+    <meta name="text:Custom Link Two Title" content="" />\
+    <meta name="text:Disqus Shortname" content"" />\
+    <meta name="text:Custom Link Three" content="" />\
+    <meta name="text:Custom Link Three Title" content="" />\
+    \
+<link rel="shortcut icon" href="\{Favicon\}" />\
+    \
+    <style type="text/css">\
+            \
+            body \{ \
+                background: \{color:Background\} url('\{image:Background\}') top left fixed repeat;\
+               margin: 0;\
+                padding: 0;\
+                font-family: \{font:Body\};\
+                background-size: cover;\
+                \}\
+                \
+                \
+            a.linksy \{\
+                \
+                word-spacing: 30px;\
+            \}\
+            \
+            a.linksy2 \{\
+                \
+                text-decoration: underline;\
+            \}    \
+            \
+            #wrapper \{\
+                width: 500px;\
+                margin: 0 auto;\
+            \}\
+            \
+             \
+             \
+             \
+                 .space \{\
+    \
+width: 100%;\
+height: 3px;\
+\
+\}\
+             \}\
+             \
+              \
+                     .clear \{\
+            clear: both;\
+            height: 0px;\
+            overflow: hidden;\
+        \}     \
+              \
+             #wrapper #upbar \{\
+                 margin: 20px 0;\
+   width: 500px;\
+   padding-top: 5px;\
+   border-radius: 0px;\
+   background: transparent;\
+   text-align: center;\
+   padding-bottom: 5px;\
+             \} \
+             \
+             #wrapper #links \{\
+    word-spacing: 30px;\
+    margin-top: -20px;\
+    text-align: center; \
+    font-family: Verdana;\
+    text-decoration: none;\
+    font-size: 13px;\
+    color: \{color:Links\};\
+\}    \
+\
+#wrapper #links a \{\
+    color: \{color:Accent\};\
+    text-decoration: none;\
+\} \
+    \
+#wrapper #links a:hover \{   \
+    background: \{color:Accent\};\
+    color: \{color:LinksHover\};\
+\}    \
+\
+a.linky \{\
+    word-spacing: 30px;\
+    text-decoration: none;\
+    color: \{color:Links\};\
+    font-family: Verdana;\
+\}\
+\
+a.linky:hover \{\
+    color: #ee8341;\
+\}\
+             \
+            \
+            #wrapper #upbar #links \{\
+                word-spacing: 30px;\
+                color: \{color:Links\};\
+            \}    \
+            \
+            #content \{\
+                background-color: \{color:Content Background\};\
+                color: \{color:Text\};\
+                font: 12px \{font:Body\};\
+               \
+                \
+            \}\
+            \
+            h1 \{\
+              font-family: Verdana;\
+         font-size: 30px;\
+         text-align: center;\
+    \
+            \}\
+            \
+            #wrapper #content \{\
+                margin: 20px 0px;\
+                width: 500px;\
+                float: left;\
+                border-radius: 0px;\
+               \
+                \
+                \
+            \}    \
+            \
+            \
+            \
+          \
+          #wrapper #content .post_2\{\
+                width: 500px;\
+                font-family: \{font:Body\};               \
+                position: relative;\
+                border-radius: 0px;\
+                \
+                \
+                \}\
+          \
+           #wrapper #content .post_2 .media \{\
+           text-align: center;\
+           padding: 0px 0px 0px 0px;\
+           width: 500px;\
+           \
+           \}  \
+         \
+         #wrapper #content .post_2 .copy_photo \{\
+               color: #fff;\
+               padding: 2px 10px 5px 10px;\
+               font-size: 13px;\
+               line-height: 15px;\
+               margin-top: -3px;\
+               background: \{color:Background\};\
+               \
+           \} \
+           \
+           #wrapper #content .post_2 .footer \{\
+                        background: #eaeaea;\
+                        -moz-border-radius: 4px;\
+                        -webkit-border-radius: 4px;\
+                        border-radius: 0px;\
+                        font-family: \{font:Accent\};\
+                        font-size: 11px;\
+                        color: #666;\
+                        padding: 5px 10px;\
+                        margin-top: -3px;\
+                    \}\
+                    \
+                    \
+                    #wrapper #content .post_2 .footer.for_permalink:hover \{\
+                            opacity: 0.9;\
+                            filter: alpha(opacity=90);\
+                            -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";\
+                        \}\
+                        \
+                        #wrapper #content .post_2 .footer .date \{\
+                            width: 67%;\
+                            float: left;\
+                            color: #666;\
+                        \}\
+                        \
+                        #wrapper #content .post_2 .footer .notes \{\
+                            width: 33%;\
+                            float: right;\
+                            text-align: right;\
+                            color: #666;\
+                        \}\
+                            \
+                            #wrapper #content .post_2 .footer .notes a \{\
+                                color: #666;\
+                            \}\
+                    \
+                     #wrapper #content .post_2 .album_art \{\
+               padding: -10px;\
+               margin-left: 180px;\
+             margin-bottom: 8px;\
+\
+           \}  \
+           \
+           \
+\
+            \
+\
+             #wrapper #content .post_2 .audio2 \{\
+                        background: \{color:Background\};\
+                        padding: 7px;\
+                        margin-bottom: 0px;\
+                        margin-left: 80px;\
+                        margin-top: -6px;\
+                        -moz-border-radius: 4px;\
+                        -webkit-border-radius: 4px;\
+                        border-radius: 0px;\
+                        position: relative;\
+                        height: 15px;\
+                        width: 320px;\
+                        text-align: center;\
+                        \
+            \}\
+\
+            #wrapper #content .post_2 .audio3 \{\
+                        background: \{color:Background\};\
+                        padding: 7px;\
+                        margin-bottom: 10px;\
+                        margin-left: 80px;\
+                        margin-top: 4px;\
+                        -moz-border-radius: 4px;\
+                        -webkit-border-radius: 4px;\
+                        border-radius: 0px;\
+                        position: relative;\
+                        height: 15px;\
+                        width: 320px;\
+                        text-align: center;\
+            \}\
+\
+            #wrapper #content .post_2 .audio .player \{\
+                            overflow: hidden;\
+                           margin-left: 230px;\
+                           margin-bottom: 200px;\
+                           width: 27px;\
+                           background: transparent;\
+                    color: transparent;  \
+                    position: absolute;\
+                    top: 55px;\
+            \}\
+\
+\
+            #wrapper #content .post_2 .audio .meta \{\
+                            padding: 8px 13px;\
+                            height: 13px;\
+                            float: left;\
+                            color: #fff;\
+                            font-family: \{font:Accent\};\
+                            font-size: 11px;\
+                            text-transform: lowercase;\
+             \}\
+                    \
+                    \
+                    \
+                    \
+                    #wrapper #content .post_2 .copy3 \{\
+               color: #fff;\
+               font-size: 13px;\
+               line-height: 15px;\
+               \
+               \
+               \
+           \} \
+           \
+           #wrapper #content .post_2 .copy2 \{\
+               color: #000;\
+               padding: 3px 123px 3px 10px;\
+               margin-top: -30px;\
+               font-size: 13px;\
+               line-height: 15px;\
+               background: #989898;\
+               margin-bottom: 0px;\
+               float: left;\
+               \
+           \}\
+           \
+           \
+           .post_2 blockquote \{\
+      border-left: 5px solid grey;\
+      padding-left: 15px;\
+      padding-top: 0px;\
+      margin: 10px;\
+   \}\
+         \
+         #wrapper #content .post\{\
+                width: 500px;\
+                font-family: \{font:Body\};               \
+                background: \{color:Background\};\
+                position: relative;\
+                border-radius: 0px;\
+                margin-bottom: 30px;\
+                \
+                \}\
+                \
+                \
+                \
+            #wrapper #content img \{\
+ \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0\
+ \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 max-width: 100%;\
+ \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0\
+ \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0\
+ \'a0 \'a0 \'a0 \'a0 \'a0 \'a0\}\
+               \
+               .post blockquote \{\
+      border-left: 5px solid grey;\
+      padding-left: 15px;\
+      padding-top: 0px;\
+      margin: 10px;\
+   \}\
+            \
+           #wrapper #content .post .copy \{\
+               color: #fff;\
+               padding: 1px 10px 3px 10px;\
+               font-size: 13px;\
+               line-height: 15px;\
+               max-width: 100%;\
+ \'a0 \'a0 \'a0 \'a0 \'a0 \'a0\}\
+               \
+           \} \
+           \
+           \
+           #wrapper #content .post .copy3 \{\
+               color: #fff;\
+               font-size: 13px;\
+               line-height: 15px;\
+               \
+               \
+               \
+           \} \
+           \
+           #wrapper #content .post .copy2 \{\
+               color: #000;\
+               padding: 3px 123px 3px 10px;\
+               margin-top: -30px;\
+               font-size: 13px;\
+               line-height: 15px;\
+               background: #989898;\
+               margin-bottom: 0px;\
+               float: left;\
+               \
+           \}\
+           \
+           #wrapper #content .post .title \{\
+               color: #fff;\
+               font-size: 16px;\
+               font-weight: bold;\
+               padding: 13px 10px 0px 10px;\
+           \}   \
+           \
+           \
+           \
+            #wrapper #content .post .title2 \{\
+               color: #fff;\
+               font-size: 16px;\
+               font-weight: bold;\
+               padding: 9px 10px 0px 10px;\
+               margin-left: 8px;\
+               font-family: \{font:Body\}; \
+               \
+           \}   \
+           \
+           \
+           \
+          \
+           \
+           \
+          \
+            \
+            #wrapper #content .post .audio .meta \{\
+                            padding: 8px 13px;\
+                            height: 13px;\
+                            float: left;\
+                            color: #fff;\
+                            font-family: \{font:Accent\};\
+                            font-size: 11px;\
+                            text-transform: lowercase;\
+             \}\
+             \
+             #wrapper #content .post .quote \{\
+                        color: #fff;\
+                        font-weight: normal;\
+                        padding: 20px 20px 5px 20px;\
+                    \}\
+                    \
+             #wrapper #content .post .quote.short \{\
+                        font-size: 28px;\
+                        line-height: 31px;\
+                    \}\
+                    \
+             #wrapper #content .post .quote.medium \{\
+                        font-size: 20px;\
+                        line-height: 23px;\
+                    \}\
+                    \
+             #wrapper #content .post .quote.long \{\
+                        font-size: 12px;\
+                        line-height: 15px;\
+                    \}\
+             \
+             #wrapper #content .post .quote_source\{\
+                            padding-bottom: 10px;\
+                        \}\
+                        \
+                       \
+                 #wrapper #content .post .quotebg \{\
+                        font-family: georgia, serif;\
+                        font-size: 150px;\
+                        color: \{color:Background\};\
+                        opacity: 0.2;\
+                        filter: alpha(opacity=20);\
+                        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";\
+                        position: absolute;\
+                        top: 70px;\
+                        left: 10px;       \
+                        \}\
+                        \
+                        #wrapper #content .post .question \{\
+                        color: #494949;\
+                        font-size: 16px;\
+                        font-weight: bold;\
+                        background: #f1f1f1;\
+                        -moz-border-radius: 8px;\
+                        -webkit-border-radius: 8px;\
+                        border-radius: 4px;\
+                        margin: 0 0 15px 0;\
+                        padding: 15px 20px;\
+                        position: relative;\
+                    \}\
+                    \
+                    #wrapper #content .post .question .nipple \{\
+                            width: 13px;\
+                            height: 7px;\
+                            background: #f1f1f1 url('http://assets.tumblr.com/themes/redux/ask-mask.png');\
+                            position: absolute;\
+                            bottom: -7px;\
+                            left: 30px;\
+                        \}\
+                        \
+                    #wrapper #content .post .asker_container \{\
+                        margin: 0 0 20px 24px;\
+                        color: #000;\
+                    \}\
+                    \
+                        #wrapper #content .post .asker_container img \{\
+                            margin: 0 12px -7px 0;\
+                            color: #000;\
+                        \}\
+                        \
+                        #wrapper #content .post .asker_container a.asker \{\
+                            color: \{color:Body\};\
+                        \}\
+                        \
+                        #ask \{ \
+font-size:10px;\
+line-height:12px;\
+background-color: \{color:label background\};\
+padding:4px;\
+margin-bottom:4px;\}\
+\
+            #wrapper #content .post .chat \{\
+                        background-color: \{color:Background\};\
+                        \
+                        margin: 16px 18px 0 10px;\
+                        font-size: 14px;\
+                        padding-top: 10px;\
+                    \}\
+                                        \
+                        #wrapper #content .post .chat .lines \{\
+                            margin-left: 5px;\
+                          \
+                        \}\
+                        \
+                            #wrapper #content .post .chat .lines .line \{\
+                                background-color: \{color:Background\};\
+                                color: #000;\
+                                margin-bottom: 1px;\
+                                padding: 3px 5px;\
+                                \
+                            \}\
+                            \
+                            #wrapper #content .post .chat .lines .line.even \{                               color: #fff;\
+                                background-color: \{color:Background\};\
+                            \}\
+                            \
+                            \
+                            #wrapper #content .post .link \{\
+                            margin: 4px 0 2px 0;\
+                            font-size: 16px;\
+                            line-height: 25px;\
+                            padding-left: 2px;\
+                            padding-top: 10px;\
+                            padding-bottom: 0px;\
+                        \}\
+                            \
+                            #wrapper #content .post .link a \{\
+                               \
+                                color: #fff;\
+                                padding: 5px 7px;\
+                                -moz-border-radius: 4px;\
+                                -webkit-border-radius: 4px;\
+                                border-radius: 0px;\
+                            \}\
+                            \
+                            #wrapper #content .post .link a:hover \{\
+                                opacity: 0.9;\
+                                filter: alpha(opacity=90);\
+                                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";\
+                            \}\
+\
+   \
+        \
+        \
+        \
+        \
+     \
+     #wrapper #content .post .footer_mio \{\
+         background: #fff;\
+         font-family: \{font:Accent\};\
+         font-size: 11px;\
+         padding: 5px 10px 20px;\
+         color: #000;\
+         \}\
+     \
+     #wrapper #content .post .footer_mio .date \{\
+                            width: 67%;\
+                            float: left;\
+                            color: #666;\
+          \}\
+     \
+     \
+     #wrapper #content .post .footer_mio .notes \{\
+                            width: 33%;\
+                            float: right;\
+                            text-align: right;\
+                            color: #666;\
+        \}\
+     \
+     \
+    #wrapper #content .post .footer_mio.with_source_url .tags \{\
+                                max-width: 330px;\
+                                float: left;\
+                                margin-top: 5px;\
+                               \
+                            \}\
+\
+   #wrapper #content .post .footer_mio.with_source_url .source_url \{\
+                                float: right;\
+                                max-width: 160px;\
+                                overflow: hidden;\
+                                white-space: nowrap;\
+                                margin-top: 5px;\
+\
+                            \}  \
+     \
+     \
+     \
+     \
+     \
+     \
+     \
+     #wrapper #content .post .footer \{\
+                        background: #eaeaea;\
+                        -moz-border-radius: 4px;\
+                        -webkit-border-radius: 4px;\
+                        border-radius: 0px;\
+                        font-family: \{font:Accent\};\
+                        font-size: 11px;\
+                        color: #666;\
+                        padding: 5px 10px 20px;\
+                        margin-top: 0px;\
+                        \
+                    \}\
+\
+                        #wrapper #content .post .footer.for_permalink:hover \{\
+                            opacity: 0.9;\
+                            filter: alpha(opacity=90);\
+                            -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";\
+                        \}\
+\
+                        #wrapper #content .post .footer .date \{\
+                            width: 67%;\
+                            float: left;\
+                            color: #666;\
+                        \}\
+\
+                        #wrapper #content .post .footer .notes \{\
+                            width: 33%;\
+                            float: right;\
+                            text-align: right;\
+                            color: #666;\
+                        \}\
+\
+                            #wrapper #content .post .footer .notes a \{\
+                                color: #666;\
+                            \}\
+\
+                            #wrapper #content .post .footer .tags a \{\
+                                color: #4a4a51;\
+\
+                            \}\
+\
+                                #wrapper #content .post .footer .tags .tag-commas:last-child \{\
+                                    display: none;\
+                                \}\
+\
+                            #wrapper #content .post .footer.with_source_url .tags \{\
+                                max-width: 330px;\
+                                float: left;\
+                               \
+                            \}\
+\
+                            #wrapper #content .post .footer.with_source_url .source_url \{\
+                                float: right;\
+                                max-width: 160px;\
+                                overflow: hidden;\
+                                white-space: nowrap;\
+\
+                            \}\
+\
+                                #wrapper #content .post .footer.with_source_url .source_url img \{\
+                                    vertical-align: top;\
+                                    -moz-opacity: 0.5;\
+                                    opacity: 0.5;\
+                                \}\
+\
+                                #wrapper #content .post .footer.with_source_url .source_url:hover img \{\
+                                    -moz-opacity: 0.7;\
+                                    opacity: 0.7;\
+                                \}\
+\
+                                #wrapper #content .bottom \{\
+                            background: url('http://assets.tumblr.com/themes/redux/shadow-post.png') top center no-repeat transparent;\
+                            width: 0px;\
+                            height: 30px;\
+                            margin: 0 auto;\
+                        \}\
+\
+                        #wrapper #content #navigation \{\
+                            text-align: right;\
+                            padding-bottom: 35px;\
+                            text-transform: lowercase;\
+                        \}\
+\
+                            #wrapper #content #navigation a \{\
+                                background-color: \{color:Background\};\
+                                color: #fff;\
+                                padding: 5px 10px;\
+                                text-decoration: none;\
+                                margin-left: 25px;\
+                                border-radius: 0px;\
+                            \}\
+\
+                            #wrapper #content #navigation a:hover \{\
+                                opacity: 0.9;\
+                                filter: alpha(opacity=90);\
+                                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";\
+                            \}\
+\
+                        #wrapper #content #navigation.jump_pagination \{\}\
+\
+                            #wrapper #content #navigation.jump_pagination a \{\
+                                margin: 0 0 0 4px;\
+                            \}\
+\
+                            #wrapper #content #navigation.jump_pagination .current_page \{\
+                                color: #fff;\
+                                background-color: rgba(255,255,255, 0.1);\
+                                border: 2px solid #fff;\
+                                padding: 3px 8px;\
+                                margin: 0 0 0 4px;\
+                                cursor: default;\
+                            \}\
+\
+                            #wrapper #content #navigation.jump_pagination .jump_page \{\}\
+\
+\
+                             #wrapper #content .post .notecontainer \{\
+                                background: #eaeaea;\
+                                -moz-border-radius: 0px;\
+                                -webkit-border-radius: 0px;\
+                                border-radius: 0px;\
+                                font-family: \{font:Accent\};\
+                                font-size: 11px;\
+                                color: #666;\
+                                margin-top: 15px;\
+                                margin-bottom: -10px;\
+                            \}\
+\
+                                    #wrapper #content .post .notecontainer a \{\
+                                        color: #666;\
+                                        text-decoration: underline;\
+                                    \}\
+\
+                                    #wrapper #content .post .notecontainer ol.notes \{\
+                                        padding: 0px 0 10px 0;\
+                                        list-style-type: none;\
+                                        font-size: 11px;\
+                                    \}\
+\
+                                        #wrapper #content .post .notecontainer ol.notes li.note \{\
+                                            padding: 10px 10px 0 10px;\
+                                        \}\
+\
+                                            #wrapper #content .post .notecontainer ol.notes li.note img.avatar \{\
+                                                vertical-align: -4px;\
+                                                margin-right: 10px;\
+                                                width: 16px;\
+                                                height: 16px;\
+                                            \}\
+\
+                                            #wrapper #content .post .notecontainer ol.notes li.note span.action \{\
+                                                font-weight: normal;\
+                                            \}\
+\
+                                            #wrapper #content .post .notecontainer ol.notes li.note .answer_content \{\
+                                                font-weight: normal;\
+                                            \}\
+\
+                                            #wrapper #content .post .notecontainer ol.notes li.note blockquote \{\
+                                                border-left: 2px solid #666;\
+                                                padding: 4px 10px;\
+                                                margin: 10px 0px 0px 25px;\
+                                            \}\
+\
+                                                #wrapper #content .post .notecontainer ol.notes li.note blockquote a \{\
+                                                    text-decoration: none;\
+                                                \}\
+                                                \
+                                                \
+                                                \
+                                                \
+                                                 #wrapper #content .post .abajo \{\
+              height: 10px;\
+              width: 500px;\
+              background: #000;\
+              position: absolute;\
+              bottom: 0px;\
+              right: 0px;\
+              margin-bottom: -4px;\
+\}\
+         \
+         #wrapper #content .post .abajo:hover \{\
+             background: #fff;\
+         \}\
+   \
+    </style>\
+    \
+</head>\
+<body bgcolor="\{color:Background\}" link="#fff" vlink="#fff" alink="#fff">\
+        <div id="content">\
+           <div id="wrapper">\
+           \
+           \
+           <div id="upbar"><a href="/">\
+\{block:IfHeaderImage\}<img src="\{image:Header\}"/>\{/block:IfHeaderImage\}\
+\{block:IfNotHeaderImage\}<h1><font face="Verdana">\{Title\}</font></h1>\{/block:IfNotHeaderImage\}</a>\
+</div>\
+\
+<div id="links" class="linky">\
+\{block:ifCustomLinkOneTitle\}<a href="\{text:Custom Link One\}" class="linky" >\{text:Custom Link One Title\}\{/block:ifCustomLinkOneTitle\}</a>\
+\
+\{block:ifCustomLinkTwoTitle\}<a href="\{text:Custom Link Two\}" class="linky" >\{text:Custom Link Two Title\}\{/block:ifCustomLinkTwoTitle\}</a>\
+\
+\{block:ifCustomLinkThreeTitle\}<a href="\{text:Custom Link Three\}" class="linky">\{text:Custom Link Three Title\}\{/block:ifCustomLinkThreeTitle\}</a>\
+\
+<a href="http://raphacoot.tumblr.com/" class="linky">Themes</a>\
+\
+\{block:AskEnabled\}<a href="/ask" class="linky">Ask</a>\{/block:AskEnabled\}\
+\
+\{block:SubmissionsEnabled\}<a href="/submit" class="linky">Submit</a>\{/block:SubmissionsEnabled\}\
+   \
+           \
+           <script language="JavaScript"> \
+var ref = (''+document.referrer+''); \
+document.write('<script src="http://s1.freehostedscripts.net/ocounter.php?site=ID1819155&e1=&e2=&r=' + ref + '"><\\/script>'); \
+</script>\
+           \
+           </div>    \
+           \
+          \
+<div id="content">\
+          \
+    \{block:Posts\}\
+              \
+            \
+            <div class="post_2">\
+            \{block:Photo\}\
+                        <div class="media">\{Photo-500\}<img src="\{PhotoURL-500\}" width="500" alt="\{PhotoAlt\}" />\{LinkCloseTag\}</div>\
+                        \{block:Caption\}<div class="copy_photo">\{Caption\}</div>\{/block:Caption\}\
+            \{/block:Photo\}\
+            \
+            \{block:Photoset\}<div class="media">\
+<div class="photoset">\
+\{Photoset-500\}\
+</div></div>\
+\{/block:Photoset\}\
+           \
+          \{block:Audio\}\
+                        \{block:IfShowAlbumArtOnAudioPosts\}\
+                            \{block:AlbumArt\}\
+                                <div class="album_art">\
+                                    <img src="\{AlbumArtURL\}" alt="\{block:Artist\}\{Artist\}\{/block:Artist\}\{block:TrackName\} - \{TrackName\}\{/block:TrackName\}" style="margin-bottom:10px;" width="130" height="130"/>\
+                                </div>\
+                            \{/block:AlbumArt\}\
+                        \{/block:IfShowAlbumArtOnAudioPosts\}\
+\
+                        <div class="audio"> <div class="player">\{AudioPlayerBlack\}</div></div>\
+                     <div class="audio2"><div class="copy3">\{block:TrackName\}\{TrackName\}\{/block:TrackName\}</div></div>  \
+                     <div class="audio3"><div class="copy3">\{block:Artist\}\{Artist\}\{/block:Artist\}</div></div>\
+\
+\
+                        <div class="clear"></div>\
+\
+               \{/block:Audio\}\
+           \
+               \
+               \
+           </div>\
+            \
+        \
+            \
+            <div class="post">\
+            \
+            \{block:Text\}\
+\
+             \{block:Title\}<div class="title">\{Title\}</div>\{/block:Title\}\
+             <div class="copy">\{Body\} </div>\
+\
+            \{/block:Text\}\
+\
+       \
+\
+            \
+            \{block:Video\}\
+                        <div class="media">\{Video-500\}</div>\
+                        \{block:Caption\}<div class="copy">\{Caption\}</div>\{/block:Caption\}\
+            \{/block:Video\}\
+            \
+            \
+               \
+                \
+               \{block:Quote\}\
+                        <div class="quote \{Length\}">\{Quote\}</div>\
+                        <div class="copy">\
+                            <div class="quotebg">\'93</div>\
+                            \{block:Source\}\
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">\
+                                    <tr>\
+                                        <td valign="top" style="width:20px;">&mdash;</td>\
+                                        <td valign="top" class="quote_source">\
+                                            \{Source\}\
+                                        </td>\
+                                    </tr>\
+                                </table>\
+                            \{/block:Source\}\
+                        </div>\
+                 \{/block:Quote\} \
+                \
+                 \{block:Answer\}\
+                        <div class="question">\
+                            <div class="nipple"></div>\
+                            \{Question\}\
+                        </div>\
+                        <div class="asker_container"><img src="\{AskerPortraitURL-24\}" >\{Asker\}</div>\
+                        <div class="copy">\{Answer\}</div>\
+                 \{/block:Answer\}\
+                \
+                 \{block:Chat\}\
+                        \{block:Title\}<div class="title2">\{Title\}</div>\{/block:Title\}\
+                        <div class="chat">\
+                            <div class="lines">\
+                                \{block:Lines\}\
+                                    <div class="line \{Alt\}">\{block:Label\}<strong>\{Label\}</strong>\{/block:Label\} \{Line\}</div>\
+                                \{/block:Lines\}\
+                            </div>\
+                        </div>\
+                        <div class="clear"></div>\
+                        <div style="height:10px;"></div>\
+                    \{/block:Chat\}\
+                    \
+                    \
+                    \{block:Link\}\
+                        <div class="link"><a href="\{URL\}" \{Target\}>\{Name\} &raquo;</a></div>\
+                        \{block:Description\}<div class="copy">\{Description\}</div>\{/block:Description\}\
+                    \{/block:Link\}\
+                \
+                    \
+                    \{block:PermalinkPage\}\
+                  \
+\{block:Date\}\
+                        <a href="\{Permalink\}">\
+                            <div class="footer for_permalink">\
+                                <div class="date">\
+                                    \{block:Reblog\}\
+                                        \{lang:Reblogged TimeAgo from ReblogParentName\} \{block:RebloggedFromReblog\}(<span style="text-transform:lowercase;">\{lang:Originally from ReblogRootName\}</span>)\{/block:RebloggedFromReblog\}\
+                                    \{/block:Reblog\}\
+\
+                                    \{block:NotReblog\}\
+                                        \{lang:Posted TimeAgo from source\}\
+                                    \{/block:NotReblog\}\
+                                </div>\
+                                <div class="notes">\{block:NoteCount\}\{NoteCountWithLabel\}\{/block:NoteCount\} \{block:IfDisqusShortname\}\{block:NoteCount\}&bull;\{/block:NoteCount\} <a href="\{Permalink\}#disqus_thread">\{lang:View comments\}</a>\{/block:IfDisqusShortname\}</div>\
+                                <div class="clear"></div>\
+                            </div>\
+                        </a>\
+                    \{/block:Date\}\
+                    \
+                    <div class="footer \{block:ContentSource\}with_source_url\{/block:ContentSource\}" style="\
+                        display:none;\
+                        \{block:IfShowTags\}\{block:HasTags\}display:block;\{/block:HasTags\}\{/block:IfShowTags\}\
+                        \{block:ContentSource\}display:block;\{/block:ContentSource\}\
+                    " >\
+                        \{block:IfShowTags\}\
+                            \{block:HasTags\}<div class="tags">\{lang:Tagged\}: \{block:Tags\}<a href="\{TagURL\}">\{Tag\}</a><span class="tag-commas">, </span>\{/block:Tags\}.</div>\{/block:HasTags\}\
+                        \{/block:IfShowTags\}\
+\
+                        \{block:ContentSource\}\
+                            <a href="\{SourceURL\}" class="source_url" style="color:#000">\
+                                \{lang:Source\}:\
+                                \{block:SourceLogo\}<img src="\{BlackLogoURL\}" width="\{LogoWidth\}" height="\{LogoHeight\}" alt="\{SourceTitle\}" />\{/block:SourceLogo\}\
+                                \{block:NoSourceLogo\}\{SourceTitle\}\{/block:NoSourceLogo\}\
+                            </a>\
+                        \{/block:ContentSource\}\
+\
+                        <div class="clear"></div>\
+                    </div> \
+\
+\
+                        \
+                     \
+                    \{block:PostNotes\}<div class="notecontainer">\{PostNotes\}</div>\{/block:PostNotes\}\
+                    \
+                    \{block:IfDisqusShortname\}\
+                        \{block:Permalink\}\
+                            <div class="notecontainer" style="margin:20px 0 1px 0; padding:1px 10px 10px 10px;">\
+                                <div id="disqus_thread"></div>\
+                                <script type="text/javascript" src="http://disqus.com/forums/\{text:Disqus Shortname\}/embed.js"></script>\
+                                <noscript><a href="http://\{text:Disqus Shortname\}.disqus.com/?url=ref">\{lang:View the discussion thread\}</a></noscript>\
+                            </div>\
+                            <div style="text-align:right; margin-top:5px;">\
+                                \{lang:Blog comments powered by Disqus 2\}\
+                            </div>\
+                        \{/block:Permalink\}\
+                    \{/block:IfDisqusShortname\}\
+                    \{/block:PermalinkPage\} \
+                    \
+                    \{block:IndexPage\}\
+\
+<a href="\{Permalink\}"><div class="abajo" title="Permalink"></div></a>\
+\
+\{/block:IndexPage\}\
+                    \
+                    \
+                    \
+            </div>\
+  \
+   \{/block:Posts\} \
+   \
+   \
+   \
+   \
+   \{block:Pagination\}\
+                <div id="navigation" \{block:IfEnableJumpPagination\}class="jump_pagination"\{/block:IfEnableJumpPagination\}>\
+                    \{block:PreviousPage\}<a href="\{PreviousPage\}">&larr; \{lang:Previous\}</a>\{/block:PreviousPage\}\
+                    \
+                    \{block:IfEnableJumpPagination\}\
+                        \{block:JumpPagination length="5"\}\
+                            \{block:CurrentPage\}\
+                                <span class="current_page">\{PageNumber\}</span>\
+                            \{/block:CurrentPage\}\
+                            \
+                            \{block:JumpPage\}\
+                                <a class="jump_page" href="\{URL\}">\{PageNumber\}</a>\
+                            \{/block:JumpPage\}\
+                            \
+                        \{/block:JumpPagination\}\
+                    \{/block:IfEnableJumpPagination\}\
+                    \
+                    \{block:NextPage\}<a href="\{NextPage\}">\{lang:Next page\} &rarr;</a>\{/block:NextPage\}\
+                </div>\
+            \{/block:Pagination\}\
+   \
+   \
+   \
+</div>           \
+\
+           \
+            </div>\
+         </div>\
+    \
+</body>}
