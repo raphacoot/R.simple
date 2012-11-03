@@ -794,11 +794,6 @@ margin-bottom:4px;}
 {block:SubmissionsEnabled}<a href="/submit" class="linky">Submit</a>{/block:SubmissionsEnabled}
    
            
-           <script language="JavaScript"> 
-var ref = (''+document.referrer+''); 
-document.write('<script src="http://s1.freehostedscripts.net/ocounter.php?site=ID1819155&e1=&e2=&r=' + ref + '"><\/script>'); 
-</script>
-           
            </div>    
            
           
