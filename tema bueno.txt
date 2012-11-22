@@ -212,8 +212,10 @@ a.linky:hover {
                     
                      #wrapper #content .post_2 .album_art {
                padding: -10px;
-               margin-left: 180px;
-             margin-bottom: 8px;
+               margin-left: 350px;
+             margin-bottom: -75px;
+             position: relative;
+
 
            }  
            
