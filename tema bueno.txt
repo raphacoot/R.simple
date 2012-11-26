@@ -777,7 +777,7 @@ margin-bottom:4px;}
            <div id="wrapper">
            
            
-           <div id="upbar"><a href="/">
+           <div id="upbar"><a href="/"  style="text-decoration: none;">
 {block:IfHeaderImage}<img src="{image:Header}"/>{/block:IfHeaderImage}
 {block:IfNotHeaderImage}<h1><font face="Verdana">{Title}</font></h1>{/block:IfNotHeaderImage}</a>
 </div>
